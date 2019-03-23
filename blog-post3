@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+    <head>
+
+        <!-- meta data & title -->
+        <meta charset="utf-8">
+        <title>Blog</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+
+        <!-- Favicon and touch icons -->
+        <!--<link rel="shortcut icon" href="assets/ico/favicon.ico">-->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300">
+        <link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+        <link href="http://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        
+    </head>
+  <body>
+  <!-- Header -->
+        
+    <nav id="navbar-section" class="navbar navbar-default navbar-static-top navbar-sticky" role="navigation">
+        <div class="container">
+        
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand" href="index.html"><img class="office-logo" src="assets/img/slider/tpw/potterswheel.png" alt="potterswheel"></a>      
+            </div>
+        
+            <div id="navbar-spy" class="collapse navbar-collapse navbar-responsive-collapse">
+                <ul class="nav navbar-nav pull-right">
+                    <li >
+                        <a href="index.html" style="color:white;">Home</a>
+                    </li>
+                    <li class="">
+                        <a href="media.html" style="color:white;">Media</a>
+                    </li>
+                    <li class="">
+                        <a href="blog.html" style="color:white;">Blog</a>
+                    </li>
+                </ul>         
+            </div>
+        </div>
+    </nav>
+
+
+    <div id="banners"></div>
+        <div class="container">
+            <div class="col-sm-9">
+                <div class="row-blog">
+                    <div class="">
+                        <div class="media">
+                            <div class="media-left">
+                                <img src="assets/img/team/member1.png" class="media-object" alt="speakers-image" style="width:60px;">
+                              
+                            </div>
+                            <div class="media-body">
+                            
+                                 <h2 class="media-heading" id="purple" style="background-color: #adadad"><!--<i class="fa fa-file-text" id="purple"></i>--> LAWS OF WEALTH</h2> <span class="label label-default">posted on August 13, 2018</span>
+                                <p style="text-indent:30px">There are certain laws that governs wealth. Wealth is first spiritual before it manifest in the physical.</p> 
+                                
+                                <p style="text-indent: 30px;">When instructions are violated, divine intervention are suspended. God doesn't invest in people that will not in return, invest into His Kingdom. He is very cautious of who He gives wealth.  God is an astute businessman, He wants to make profit. </p>
+
+                                <p style="text-indent: 30px;">The worth of a soul cannot be quantified, no amount gold, silver, diamond can ever be worth a single soul (Psalms49). When we commit ourselves to God's work, He also commits Himself to us. spiritual things don't make human sense.</p>
+
+                                <p style="text-indent: 30px;">No matter the condition of a man at the time we met them, that condition only cloaks the real treasure. When we begin to ignore men we begin to downplay on eternal treasures. when somebody is not rich in souls he is not rich towards God. God sees you as an impoverished person.</p>
+
+                                <p style="text-indent: 30px;">Our idea about wealth in this part of the world is in disarray. Anytime resources flow in our part it's just to test us. Wealth proves God's faithfulness to us and our faithfulness to God. Poverty is not a physical condition but a spiritual state; no matter how much you give a poor man he'd waste it.</p>
+
+
+                                <p style="text-indent: 30px;">Every physical condition rises or falls to match his inward reality. The root of every physical thing comes from the things that are not seen. the inward life is the real life, the outside is the ephemerals. The Law of the unseen states that; what is seen has its origin from the things that are not seen (Heb 11:3). If a business doesn't thrive spiritually first it can't thrive physically. The spirit world controls the natural world.  If my business is not supporting the Kingdom of God, then its supporting the Kingdom of darkness. There's no sitting on the fence.</p>
+
+                               <P style="text-indent: 30px;"> I must first be wealthy in the spiritual before I can be wealthy in the physical. My spiritual wealth enables me to command the elements of this world. Wealth cannot be effectively managed without character and competence. These are the things that helps to sustain wealth.</p>
+
+                                <p style="float: right;">Yours in service</p>
+                                <p style="float: right;">CeCe Ekwuagana</p>
+                        
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--categories -->
+            <div class="col-sm-3">
+                <div class="categories">
+                     <h3><i class="fa fa-external-link"></i> CATEGORIES</h3>
+                        <h4> <a href="#"> FAITH</a></h4>
+                        <h4> <a href="#"> HEALING</a></h4>
+                        <h4> <a href="#"> HOLY-SPIRIT</a></h4>
+                        <h4> <a href="#"> POWER</a></h4>
+                        <h4> <a href="#"> PRAYER</a></h4> 
+                </div>
+                
+            </div>
+        </div>
+
+<!--footer section -->
+        <footer> 
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3><i class="fa fa-map-marker"></i> Contact:</h3>
+                        <p class="footer-contact">
+                        148 Ifite Road, Ifite, Awka<br>
+                        Phone: (+234)80-670-7872<br>
+                        Email: hello@thepotterswheel.org<br>
+                        </p>
+                    </div>
+                    <div class="col-md-4">
+                        <h3><i class="fa fa-external-link"></i> CATEGORIES</h3>
+                        <p> <a href="#"> FAITH</a></p>
+                        <p> <a href="#"> HEALING</a></p>
+                        <p> <a href="#"> HOLY-SPIRIT</a></p>
+                        <p> <a href="#"> POWER</a></p>
+                        <p> <a href="#"> PRAYER</a></p> 
+                    </div>
+                <div class="col-sm-4">
+                    <h3><i class="fa fa-heart"></i> Socialize</h3>
+                    <div id="social-icons">
+                        <a href="#" class="btn-group google-plus">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                        <a href="#" class="btn-group instagram">
+                            <i class="fa fa-instagram"></i>
+                        </a>
+                        <a href="#" class="btn-group twitter">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                        <a href="#" class="btn-group facebook">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                    </div>
+                </div>    
+            </div>
+        </div>
+    </footer>
+
+    
+    <div class="copyright text center">
+        <p>&copy; Copyright 2018, <a href="index.html">thepotterswheel</a>. Theme by <a href="admin.php" target="_blank">PottersHub</a></p>
+    </div>
+
+        
+    <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+      new WOW().init();
+    </script>
+
+  </body>
+</html>
